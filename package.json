@@ -1,12 +1,12 @@
 {
-    "name": "react-material-ui-carousel",
-    "version": "3.4.2",
+    "name": "react-material-ui-carousel-mjs",
+    "version": "4.0.0",
     "license": "MIT",
     "description": "A Generic, extendible Carousel UI component for React using Material UI",
-    "homepage": "https://learus.github.io/react-material-ui-carousel",
+    "homepage": "https://hemache.github.io/react-material-ui-carousel-mjs",
     "repository": {
         "type": "git",
-        "url": "https://github.com/Learus/react-material-ui-carousel"
+        "url": "https://github.com/hemache/react-material-ui-carousel-mjs"
     },
     "keywords": [
         "react",
@@ -30,7 +30,7 @@
     },
     "scripts": {
         "build": "npx rimraf dist && npm run build:mjs",
-        "build:mjs": "tsc --module es6 --outDir dist",
+        "build:mjs": "tsc --module es6 --outDir dist"
     },
     "eslintConfig": {
         "extends": "react-app"

@@ -1,4 +1,4 @@
-# React Material UI Carousel [![npm version](https://img.shields.io/npm/v/react-material-ui-carousel.svg?style=flat)](https://www.npmjs.com/package/react-material-ui-carousel)
+# React Material UI Carousel [![npm version](https://img.shields.io/npm/v/react-material-ui-carousel-mjs.svg?style=flat)](https://www.npmjs.com/package/react-material-ui-carousel-mjs)
 
 ## Description
 
@@ -9,12 +9,12 @@ Also provides interactible bullet indicators.
 
 ## Live Demo
 
-Take a look at this interactible [Live Demo](https://learus.github.io/react-material-ui-carousel)
+Take a look at this interactible [Live Demo](https://hemache.github.io/react-material-ui-carousel-mjs)
 
 ## Installation
 
 ```shell
-npm install react-material-ui-carousel --save
+npm install react-material-ui-carousel-mjs --save
 ```
 
 **Note:**
@@ -31,20 +31,20 @@ npm install @mui/styles
 
 ```shell
 # Version 2 with MUI 4
-npm install react-material-ui-carousel@v2 --save
+npm install react-material-ui-carousel-mjs@v2 --save
 npm install @material-ui/core
 npm install @material-ui/icons
 
 
 # Version 2 with MUI 5 support
-npm install react-material-ui-carousel@v2mui5 --save
+npm install react-material-ui-carousel-mjs@v2mui5 --save
 ```
 
 ## Usage Example
 
 ```jsx
 import React from 'react';
-import Carousel from 'react-material-ui-carousel'
+import Carousel from 'react-material-ui-carousel-mjs'
 import { Paper, Button } from '@mui/material'
 
 function Example(props)
@@ -423,4 +423,4 @@ The MIT License.
 
 ## Author
 
-[Learus](https://learus.github.io)
+[hemache](https://hemache.github.io)

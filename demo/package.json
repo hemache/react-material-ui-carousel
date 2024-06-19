@@ -1,8 +1,8 @@
 {
-  "name": "react-material-ui-carousel-demo",
+  "name": "react-material-ui-carousel-mjs-demo",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://learus.github.io/react-material-ui-carousel",
+  "homepage": "https://hemache.github.io/react-material-ui-carousel-mjs",
   "dependencies": {
     "@emotion/babel-plugin": "^11.7.2",
     "@emotion/react": "^11.4.1",
@@ -15,7 +15,7 @@
     "framer-motion": "^4.1.17",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-material-ui-carousel": "^3.4.1",
+    "react-material-ui-carousel-mjs": "^3.4.1",
     "react-scripts": "^4.0.3"
   },
   "resolutions": {
