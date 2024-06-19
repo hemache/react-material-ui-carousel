@@ -1,6 +1,6 @@
 {
     "name": "react-material-ui-carousel-mjs",
-    "version": "4.0.0",
+    "version": "4.0.1",
     "license": "MIT",
     "description": "A Generic, extendible Carousel UI component for React using Material UI",
     "homepage": "https://hemache.github.io/react-material-ui-carousel-mjs",
